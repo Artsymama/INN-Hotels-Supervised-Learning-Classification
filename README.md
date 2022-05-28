@@ -19,12 +19,14 @@ Tools used
 •	Matplotib for interactive visualizations
 Project Coverage
 Build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
+
 Tasks Performed
 •	Data Preparation
 •	Used machine learning algorithms for classification problems - Logistic Regression, and Decision Tree.
 •	Used Variance Inflation Factor to check for multicollinearity
 •	Interpret the results of a Logistic Regression model.
 •	Interpret and visualize the results of a Decision Tree model.
+•	Built enhanced booking/cancellation recommendation using k-nearest-neighbors in scikit-learn after aggregating data from INN hotels.n after 
 •	Creating confusion matrix review, accuracy, recall, precision and f1 performance
 •	Assess the model performance of a classification model using different performance metrics, tune models to improve model performance.
 
