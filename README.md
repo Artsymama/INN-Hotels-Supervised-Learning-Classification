@@ -11,3 +11,26 @@ Human resources to make arrangements for the guests.
 Objective
 The increasing number of cancellations calls for a Machine Learning based solution that can help in predicting which booking is likely to be canceled. INN Hotels Group has a chain of hotels in Portugal, they are facing problems with the high number of booking cancellations and have reached out for data-driven solutions.
 As a data scientist I have to analyze the data provided to find which factors have a high influence on booking cancellations, build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
+
+Tools used
+•	Python: statsmodel, sklearn, sklearn.metrics, sklearn.tree
+•	Numpy library for computation
+•	Seaborn library for informative statistical graphs
+•	Matplotib for interactive visualizations
+Project Coverage
+Build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
+Tasks Performed
+•	Data Preparation
+•	Used machine learning algorithms for classification problems - Logistic Regression, and Decision Tree.
+•	Used Variance Inflation Factor to check for multicollinearity
+•	Interpret the results of a Logistic Regression model.
+•	Interpret and visualize the results of a Decision Tree model.
+•	Creating confusion matrix review, accuracy, recall, precision and f1 performance
+•	Assess the model performance of a classification model using different performance metrics, tune models to improve model performance.
+
+Business Insights
+•	The refunds, cancellation fee, should be highlighted on the website/app before a customer confirms their booking to safeguard guests' interest.
+•	We saw in our analysis that bookings, where the total length of stay was more than 5 days, had a higher chance of getting canceled. The hotel can restrict booking duration up to 5 days only with an option for customers to book an extension in case they are willing to extend their stay
+•	In the months of December and January cancellation to non-cancellation ratio is low. Customers might travel to celebrate Christmas and New Year. The hotel should ensure that enough human resources are available to cater to the needs of the guests
+•	A loyalty program for repeat customers that offers - special discounts, access to services in hotels, for these customers can help in improving their experience
+
